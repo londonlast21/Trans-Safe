@@ -1,0 +1,19 @@
+{
+  "name": "transsafe",
+  "version": "1.0.0",
+  "description": "A healthcare directory for finding trans-safe providers.",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/londonlast21/Trans-Safe.git"
+  },
+  "author": "Jack Cady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/londonlast21/Trans-Safe/issues"
+  },
+  "homepage": "https://github.com/londonlast21/Trans-Safe#readme"
+}
