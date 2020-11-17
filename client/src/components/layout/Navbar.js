@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import { Menu } from 'semantic-ui-react';
+
 class Navbar extends Component {
   render() {
     return (
@@ -13,8 +15,8 @@ class Navbar extends Component {
               }}
               className="col s5 brand-logo center black-text"
             >
-              <i className="material-icons">code</i>
-              MERN
+            
+              TSafety Directory
             </Link>
           </div>
         </nav>
