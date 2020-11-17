@@ -67,7 +67,7 @@ return (
                   onChange={this.onChange}
                   value={this.state.username}
                   error={errors.username}
-                  id="name"
+                  id="username"
                   type="text"
                   className={classnames("", {
                     invalid: errors.username
